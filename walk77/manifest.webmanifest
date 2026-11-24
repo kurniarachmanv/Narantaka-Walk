@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Narantaka Walk — V3.0 Move With Purpose",
+  "short_name": "Narantaka Walk",
+  "description": "Teman perjalanan sehat dari 87 kg menuju 77 kg.",
+  "lang": "id-ID",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08090b",
+  "theme_color": "#09090b",
+  "prefer_related_applications": false,
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"icons/icon-512-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
